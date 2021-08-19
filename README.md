@@ -11,6 +11,9 @@ your ship!! You will be teleported to the last checkpoint if that happens.
 # Video demonstration
 https://youtu.be/QLSZj4nIu5A
 
+![image](https://user-images.githubusercontent.com/88235511/130155597-28c51426-bfd8-4bec-84fb-10c46542dbe7.png)
+
+
 # Gameplay instructions
 
 MENU -> USE W,S to choose the menu options. ENTER to accept.
