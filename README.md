@@ -1,4 +1,5 @@
-![menu_play](https://user-images.githubusercontent.com/88235511/130155048-40a989cc-b64b-4372-bc75-9e7c913c9409.jpg
+![image](https://user-images.githubusercontent.com/88235511/130155166-0a4130dd-868e-43af-b63f-3e5326070879.png)
+
 
 # Speed-Racer
 Spaceship racing game developed with a graphics engine made practically from scratch using C++ and OpenGL.
