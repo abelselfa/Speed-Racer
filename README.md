@@ -1,13 +1,13 @@
 # Speed-Racer
-Spaceship racing game developed with a graphics engine made practically from scratch using C++ and OpenGL
+Spaceship racing game developed with a graphics engine made practically from scratch using C++ and OpenGL.
 
-___OBJECTIVE:__________________________________________________________
+OBJECTIVE:
 Get to the finish line (in White) before the other ship, but be careful! Asteroids can destroy
 your ship!! You will be teleported to the last checkpoint if that happens.
 
 
 
-___GAMEPLAY INSTRUCTIONS:______________________________________________
+GAMEPLAY INSTRUCTIONS:
 
 // MENU
 USE W,S to choose the menu options. ENTER to accept.
@@ -21,7 +21,7 @@ Press ESC at any time to exit the game...
 HAVE FUN!
 
 
-___FEATURES:___________________________________________________________
+FEATURES:
 -We have created a randomized track of rings that change every time you retry the race.
 -The color of the rings changes so you know at all times which rings you already reached, what's the next ring and the FINISH LINE.
 -Theres also an arrow that always points to the next ring. It changes color depending on the relative position to the next ring.
