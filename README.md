@@ -2,7 +2,7 @@
 Spaceship racing game developed with a graphics engine made practically from scratch using C++ and OpenGL.
 
 # Objective:
-Get to the finish line (in White) before the other ship, but be careful! Asteroids can destroy
+Get to the finish line (in white) before the other ship, but be careful! Asteroids can destroy
 your ship!! You will be teleported to the last checkpoint if that happens.
 
 
