@@ -26,7 +26,7 @@ HAVE FUN!
 
 
 # Features
--We have created a randomized track of rings that change every time you retry the race.
+-Randomized track of rings that change every time you retry the race.
 
 -The color of the rings changes so you know at all times which rings you already reached, what's the next ring and the FINISH LINE.
 
