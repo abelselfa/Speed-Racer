@@ -1,3 +1,5 @@
+![menu_play](https://user-images.githubusercontent.com/88235511/130155048-40a989cc-b64b-4372-bc75-9e7c913c9409.jpg
+
 # Speed-Racer
 Spaceship racing game developed with a graphics engine made practically from scratch using C++ and OpenGL.
 
@@ -5,7 +7,8 @@ Spaceship racing game developed with a graphics engine made practically from scr
 Get to the finish line (in white) before the other ship, but be careful! Asteroids can destroy
 your ship!! You will be teleported to the last checkpoint if that happens.
 
-
+# Video demonstration
+https://youtu.be/QLSZj4nIu5A
 
 # Gameplay instructions
 
